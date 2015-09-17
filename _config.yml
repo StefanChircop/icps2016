@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /icps2016
++exclude: ["README.md"]
